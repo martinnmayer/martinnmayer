@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @martinnmayer
 - 👀 I’m interested in Quantitative Trading
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: martinnmayer@gmail.com
+- 📫 How to reach me: martin@qmr.ai
 
 <!---
 martinnmayer/martinnmayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
